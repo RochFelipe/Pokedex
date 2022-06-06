@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppIconSource>C:\Users\rocha\Pictures\Pokebola.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\rocha\Pictures\Pokebola.jpg</SplashScreenSource>
+    <LargeTileSource>C:\Users\rocha\Pictures\Pokebola.jpg</LargeTileSource>
+    <Source>C:\Users\rocha\Pictures\Pokebola.jpg</Source>
+    <SmallTileSource>C:\Users\rocha\Pictures\Pokebola.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\rocha\Pictures\Pokebola.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\rocha\Pictures\Pokebola.jpg</WideTileSource>
+    <PackageLogoSource>C:\Users\rocha\Pictures\Pokebola.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>

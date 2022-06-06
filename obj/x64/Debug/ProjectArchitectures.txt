@@ -1,0 +1,1 @@
+C:\Users\rocha\source\repos\Pokedex--Grupo3\PokeDex\PokeDex.csproj;x64
